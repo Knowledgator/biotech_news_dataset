@@ -1,4 +1,4 @@
-** 📚 Multi-label events-focused biotech news classification dataset **
+**📚 Multi-label events-focused biotech news classification dataset**
 
 ### Key aspects
 * Event extraction;
